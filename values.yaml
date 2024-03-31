@@ -1,3 +1,3 @@
 deployment:
   replicas: 3
-  imageVersion: stable-alpine3.17-perl
+  imageVersion: mainline-alpine3.18-perl
